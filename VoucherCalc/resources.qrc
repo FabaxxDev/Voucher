@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/common/BalanceDisplay.qml</file>
+        <file>qml/common/DisplayName.qml</file>
+        <file>qml/common/SectionDetails.qml</file>
+        <file>qml/common/SectionDisplay.qml</file>
+        <file>qml/common/SectionSpacer.qml</file>
+        <file>qml/common/SectionTag.qml</file>
+        <file>qml/common/SectionTotal.qml</file>
+        <file>qml/models/DataModel.qml</file>
+        <file>qml/models/Logic.qml</file>
+        <file>qml/pages/BalanceDetailPage.qml</file>
+        <file>qml/pages/BalanceListPage.qml</file>
+        <file>qml/pages/BalancePage.qml</file>
+        <file>qml/pages/FirstPage.qml</file>
+        <file>qml/pages/NetWorkSaleMainPage.qml</file>
+        <file>qml/pages/PricingPage.qml</file>
+        <file>qml/pages/SalesDashBoard.qml</file>
+        <file>qml/pages/SalesListDetailPage.qml</file>
+        <file>qml/pages/SalesListPage.qml</file>
+        <file>qml/Template/PriceTags.qml</file>
+        <file>qml/Template/SaleTag.qml</file>
+        <file>qml/BackgroundRec.qml</file>
+        <file>qml/BackgroundRec2.qml</file>
+        <file>qml/config.json</file>
+        <file>qml/CustomText.qml</file>
+        <file>qml/CustomTextInput.qml</file>
+        <file>qml/CustomTextOutput.qml</file>
+        <file>qml/Main.qml</file>
+        <file>qml/NetworkSaleMainItem.qml</file>
+    </qresource>
+</RCC>
